@@ -1,0 +1,58 @@
+
+body{
+      background-color: whitesmoke;
+      padding-bottom: 70px;
+}
+
+.jumbotron{
+            background: #000 url("coastline.jpg") no-repeat center center;
+            background-size: cover;
+            height: 350px;
+            color: white;
+            margin-bottom:0;
+
+}
+
+.container-fluid{
+          background: darkslategrey;
+          margin: 0px 0px 20px 0px;
+          padding-top: 30px;
+          padding-bottom: 30px;
+          height: 250px;
+}
+
+h1{
+    font-family: 'Shrikhand', cursive;
+    color: #000;
+}
+
+h2, p{
+        font-family: 'Sumana', serif;
+        color: whitesmoke;
+}
+
+.headshot{
+            border-radius: 50%;
+            height: 180px;
+            width: 180px;
+}
+
+img:hover{
+            opacity: 0.65;
+}
+
+
+ .thumbnail {
+   background-color: transparent;
+    border: transparent;
+    box-shadow: transparent;
+    border-radius:0;
+    height: 225px;
+}
+
+  ul{
+      background-color: darkslategrey;
+      font-family:font-family: 'Sumana', serif;
+      color: whitesmoke;
+      height: 50px;
+}
